@@ -1,4 +1,5 @@
 ****** Instructions on how to install and run the software. *******
+
 Firstly, download the main file on Github
 
 Secondly, extract the zip file to the location of your choice, the folder “AppCodesAndImages will appear there
