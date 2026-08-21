@@ -1,5 +1,5 @@
 ****** Instructions on how to install and run the software. *******
-Firstly, download the LeafGuard-Project-main.zip file on Github: https://github.com/leminhtrietttt/TechWiz
+Firstly, download the main file on Github
 
 Secondly, extract the zip file to the location of your choice, the folder “AppCodesAndImages will appear there
 Thirdly, open “AppCodesAndImages” folder, right click and choose Open in Terminal
