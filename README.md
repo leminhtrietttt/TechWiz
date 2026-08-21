@@ -1,3 +1,12 @@
+****** What is the purpose of each file? ******
+TestImages: Images for testing model
+AppShowcase.mp4: Show how the app work
+LeafGuard.py: Create the UI for the app and run programn
+Part1_LeafGuard_Preprocessing_Transfer-learning.ipynb: Transfer learning code, demonstrate how to train, and develop a predictive model
+Part2_LeafGuard_Predict-Test-Evaluate Model.ipynb: For Model Testing and Prediction
+model_plants_disease.h: The trained model that use for predicting
+and other images files for the UI of the app
+
 ****** Instructions on how to install and run the software. *******
 
 Firstly, download the main file on Github
@@ -22,3 +31,5 @@ Step 3: Press "Upload Image" button, then choose your leaf image from your compu
 Step 4: The notification will appear, meaning that you have successfully upload image, Press "OK" and the App will show you leaf name along with its disease and the accuracy percentage
 
 Step 5: To choose another image, simply press the "Upload Image" button
+
+Note: This is a repo duplication of a member of team "DATA NOT FOUND" participating in the TechWiz 5 competition. The original team submission repo: https://github.com/minhllk24/LeafGuard-Project
